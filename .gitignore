@@ -9,8 +9,7 @@ dist
 package-lock.json.bak
 
 # IDE
-.vscode/*
-!.vscode/extensions.json
+.vscode
 .idea
 *.iml
 
